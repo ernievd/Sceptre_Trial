@@ -1,0 +1,3 @@
+project_code: sceptre-example
+region: us-east-1
+template_bucket_name: ernie-bucket

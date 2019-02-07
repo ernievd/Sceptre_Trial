@@ -1,0 +1,12 @@
+template_path: vpc.py
+parameters:
+  CidrBlock: 10.0.0.0/16
+  Engineer: "Ernie Van Duyne"
+  Environment: "Production"
+  VPC_NETWORK: "192.168.0.0/19"
+  VPC_DMZ_A: "192.168.0.0/23"
+  VPC_DMZ_B: "192.168.2.0/23"
+  VPC_PUBLIC_A: "192.168.4.0/23"
+  VPC_PUBLIC_B: "192.168.6.0/23"
+  VPC_PRIVATE_A: "192.168.8.0/23"
+  VPC_PRIVATE_B: "192.168.10.0/23"
